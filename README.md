@@ -5,6 +5,6 @@
 - 📫 How to reach me by email: marketing.mttt@gmail.com
 
 <!---
-1Maithao/1Maithao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Maithao/Maithao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
