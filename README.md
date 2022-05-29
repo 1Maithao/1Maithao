@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1Maithao
+- 👋 Hi, I’m @Maithao
 - 👀 I’m interested in marketing technology
 - 🌱 I’m currently working on digital marketing industry
 - 💞️ I’m looking to collaborate on Github
